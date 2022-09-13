@@ -1,5 +1,3 @@
-select 
-
 --Check the death ratio of covid per country and all
 
 Select * 
